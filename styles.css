@@ -1,0 +1,39 @@
+body {
+    font-family: Lato;
+    background-color: #E2E2E2;
+}
+
+h1 {
+    color: #002b5a;
+    margin-bottom: 42px;
+    text-transform: capitalize; 
+    font-size: 42px;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 40;
+    font-weight: 200;
+    color: #002b5a;
+    margin-bottom: 42px;
+    text-transform: capitalize; 
+}
+
+h3 {
+    font-size: 15;
+    font-weight: normal;
+    color: #002b5a;
+    margin-bottom: 42px;
+    text-transform: capitalize; 
+}
+
+p.header {
+    color: #333;
+    font-size: 18px
+}
+
+/* Containers  */
+
+#finder {
+    background-color: #EEEEF0;
+}
