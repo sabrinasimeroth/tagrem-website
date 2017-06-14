@@ -3,6 +3,12 @@ body {
     background-color: #E2E2E2;
 }
 
+.responsive-image {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+}
+
 h1 {
     color: #002b5a;
     margin-bottom: 42px;
@@ -32,8 +38,9 @@ p.header {
     font-size: 18px
 }
 
-img {
-    
+img.productImage {
+    width: 25%;
+    height: 25%;
 }
 
 /* Containers  */
